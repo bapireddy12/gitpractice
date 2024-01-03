@@ -8,3 +8,7 @@ System.out.println(“hello”);
 this is second commit
 this is third commit
 this is fouth commit
+hello 
+this is papireddy 
+learning devops and get the job asap
+need to practice daily at least 3 hours
