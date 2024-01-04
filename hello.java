@@ -2,7 +2,8 @@ class Hello
 {
 Public static void main(String args[])
 {
-System.out.println(“hello from local to remote ”);
+System.out.println(“hello from remote”);
+>>>>>>> b1b99e925a3a7b3abc7ca4b57817a8dfe602baa9
 }
 }
 this is second commit
